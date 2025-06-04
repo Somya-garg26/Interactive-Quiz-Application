@@ -45,6 +45,17 @@ The CSS is used to style the quiz app. It:
 4. User clicks “Next” to go to the next question.
 5. At the end, the score is shown and user can replay.
 
+   
+##output of the quiz
+
+![Image](https://github.com/user-attachments/assets/58932756-cbdc-4f84-b5bf-6a5b2e7fd0a6)
+
+![Image](https://github.com/user-attachments/assets/a26ab841-5602-4cc3-9372-810e73a3fd0b)
+
+![Image](https://github.com/user-attachments/assets/7549be81-9705-49f2-b688-a4d3e2453a3a)
+
+![Image](https://github.com/user-attachments/assets/12529cd6-a7d6-4fdd-b038-d65c77c42f4d)
+
 
 
 
